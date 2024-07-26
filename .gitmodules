@@ -1,0 +1,6 @@
+[submodule "thirdparty/cimg"]
+	path = thirdparty/cimg
+	url = https://github.com/GreycLab/CImg.git
+[submodule "thirdparty/cpp-image-converter"]
+	path = thirdparty/cpp-image-converter
+	url = https://github.com/2thespace/cpp-image-converter.git
